@@ -46,6 +46,7 @@ Upload the .py or .ipynb file to your Jupyter environment.
 Execute each cell to explore the interactive financial management features.
 
 🎯 Assignment Details
+
 Course: AF3005 – Programming for Finance
 Instructor: Dr. Usama Arshad
 Institution: FAST-NUCES, Islamabad
@@ -53,12 +54,14 @@ Program: BS FinTech(BSFT)
 Semester: Spring 2025
 
 📤 Submission Guidelines
+
 Create a GitHub repository named AF3005_ProgrammingForFinance.
 Include this README.md and the .py file.
 Ensure interactive elements (ipywidgets) are functional.
 Submit the GitHub repository link via Google Classroom.
 
 👨‍💻 Author
+
 Name: Hamza Abbasi
 Registration Number: I226169
 
