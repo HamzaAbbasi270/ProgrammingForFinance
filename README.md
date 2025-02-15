@@ -45,7 +45,7 @@ Run the Python script in a Jupyter Notebook environment (e.g., Google Colab). Fo
 Upload the .py or .ipynb file to your Jupyter environment.
 Execute each cell to explore the interactive financial management features.
 
-🎯 Assignment Details
+## 🎯 Assignment Details
 
 Course: AF3005 – Programming for Finance
 
@@ -57,7 +57,7 @@ Program: BS FinTech(BSFT)
 
 Semester: Spring 2025
 
-📤 Submission Guidelines
+## 📤 Submission Guidelines
 
 Create a GitHub repository named AF3005_ProgrammingForFinance.
 
@@ -67,13 +67,13 @@ Ensure interactive elements (ipywidgets) are functional
 .
 Submit the GitHub repository link via Google Classroom.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Name: Hamza Abbasi
 
 Registration Number: I226169
 
-📄 License
+## 📄 License
 This project is for educational purposes under the AF3005 Programming for Finance course.
 
 
